@@ -33,7 +33,6 @@ app.get('/', function (req, res) {
 
 app.listen(3000)
 ```
-
 ## Installation
 
 This is a [Node.js](https://nodejs.org/en/) module available through the
